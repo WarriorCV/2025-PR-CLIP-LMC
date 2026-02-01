@@ -1,0 +1,1 @@
+The default dataset used is "cifar10_4n_v.mat". Therefore, after downloading the dataset from the provided link, simply place it here to run the program.
