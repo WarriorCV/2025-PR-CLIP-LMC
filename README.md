@@ -16,3 +16,6 @@ Requirement:
 The complete dataset can be downloaded from the link below and placed in the `data` folder.
 Link: https://pan.quark.cn/s/f76856f1d9db
 Extraction code: H7bU
+
+Model Weights
+For the implementation of Section 3.3 (CLIP-Driven Prototype Generation), the pre-trained ViT-B/32 weights used in this paper can be downloaded here:https://pan.quark.cn/s/4c511c08f4a4.
